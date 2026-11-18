@@ -1,4 +1,4 @@
-<h1 align="center">🛒 Ecommerce oficial da marca VytaCore com joint venture com a marca Nação Verde</h1>
+<h1 align="center"> Ecommerce oficial da marca VytaCore com joint venture com a marca Nação Verde</h1>
 <p align="center"><b>E-commerce headless com SSR no Cloudflare e checkout Yampi</b></p>
 
 <p align="center">
